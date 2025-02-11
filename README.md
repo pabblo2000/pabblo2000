@@ -52,6 +52,7 @@ Pabblo2000@github
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+    <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-%23FFFFFF.svg?logo=snowflake&logoColor=blue">
 </p>
 
 ### 💻 Software & Tools
@@ -73,6 +74,7 @@ Pabblo2000@github
     <summary>Data Science Projects</summary>
     <ul>
         <li><a href="https://github.com/pabblo2000/WinePredictions">Wine predictions</a>: Predictive modeling and machine learning projects.</li>
+        <li><a href="https://github.com/pabblo2000/plot_llm">Plot_LLM</a>: Tool for visualizing in a heatmap the query projection weights of the attention layers from pre-trained language models.</li>
     </ul>
 </details>
 
@@ -110,6 +112,7 @@ Pabblo2000@github
     <ul>
         <li><a href="https://github.com/pabblo2000/pynacci">Pynacci</a>: A Python library for generating Fibonacci sequences and performing related mathematical operations.</li>
         <li><a href="https://github.com/pabblo2000/pybyrinth">Pybyrinth</a>: A Python library for generating and solving mazes.</li>
+        <li><a href="https://github.com/pabblo2000/fillna_interpolation">fillna_interpolation</a>A function that lets you fills time series na's with different approaches</li>
     </ul>
 </details>
 

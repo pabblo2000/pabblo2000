@@ -11,9 +11,8 @@ Hi, I'm Pablo!
 
 
 ```
-Pabblo2000@github
 ------------------
-👨‍💻 Data Analyst | Data Scientist  
+👨‍💻 Data Analyst
 📊 Passionate about data, technology, and AI.  
 💡 Technical-functional profile with a strong foundation in programming. 
 🌱 Currently exploring computer vision and data architecture. 

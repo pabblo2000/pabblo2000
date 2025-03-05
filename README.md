@@ -39,6 +39,7 @@ Hi, I'm Pablo!
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%23326FA2.svg?logo=python&logoColor=white">
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%2315899C.svg?logo=python&logoColor=white">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?logo=plotly&logoColor=white">
     <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn%20-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2343B02A.svg?logo=selenium&logoColor=white">

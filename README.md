@@ -6,7 +6,7 @@ Hi, I'm Pablo!
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Data+Scientist;Big+Data+Enthusiast;Always+learning+and+exploring;Passionate+about+AI+%7C+Tech+%7C+Data&center=true&width=500&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C;Big+Data+Enthusiast;Always+learning+and+exploring;Passionate+about+AI+%7C+Tech+%7C+Data&center=true&width=500&height=45"></a>
 </p>
 
 

@@ -19,6 +19,7 @@ Hi, I'm Pablo!
 🌐 Knowledge in data analytics, data science, webscrapping.
 🚀 Working on advanced analytics and data solutions.
 🎯 Goal: Transform data into actionable insights and impactful solutions.
+------------------
 ```
 <hr>
 

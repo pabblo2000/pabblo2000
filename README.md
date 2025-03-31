@@ -32,6 +32,7 @@ Hi, I'm Pablo!
     <img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=r&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white">
 </p>
 
 ### 🧰 Frameworks and Libraries

@@ -43,6 +43,7 @@ Hi, I'm Pablo!
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?logo=plotly&logoColor=white">
     <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn%20-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2343B02A.svg?logo=selenium&logoColor=white">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?logo=streamlit&logoColor=white">
 </p>
 
 ### 🗄️ Databases & Cloud Hosting

@@ -31,8 +31,7 @@ Hi, I'm Pablo!
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
     <img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=r&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white">
+    <img alt="Markdown & LaTeX" src="https://img.shields.io/badge/Markdown%20%26%20LaTeX-%23008080.svg?logo=latex&logoColor=white">
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -44,7 +43,8 @@ Hi, I'm Pablo!
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly%20-%233F4F75.svg?logo=plotly&logoColor=white">
     <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn%20-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2343B02A.svg?logo=selenium&logoColor=white">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?logo=streamlit&logoColor=white">
+    <img alt="Markdown & LaTeX" src="https://img.shields.io/badge/Markdown%20%26%20LaTeX-%23008080.svg?logo=latex&logoColor=white">
+
 </p>
 
 ### 🗄️ Databases & Cloud Hosting

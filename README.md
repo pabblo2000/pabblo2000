@@ -97,7 +97,8 @@ Hi, I'm Pablo!
     <summary>Dashboards</summary>
     <ul>
         <li><a href="https://github.com/pabblo2000/Turnover_dashboard">Turnover Dashboard</a>: HHRR Power BI dashboard</li>
-        <li><a href="https://github.com/pabblo2000/dashboard">HHRR Dashboard</a>: Power BI dashboard</li>
+        <li><a href="https://github.com/pabblo2000/BBVA_Externals_dashboard">Client organization Dashboard</a>: Power BI dashboard about the external people of a mayor bank</li>
+        <li><a href="https://github.com/pabblo2000/Celonis_pizzeria_process_mining">Pizzeria Dashboard & Process Mining</a>: Celonis dashboard with process mining.</li>
     </ul>
 </details>
 
@@ -135,6 +136,6 @@ Hi, I'm Pablo!
 
 <p align="left">
     <em>I'm always open to collaborate on projects and innovative ideas. Connect with me on LinkedIn or send me an email!</em><br>
-    <em>Last edited: 25/01/2025</em>
+    <em>Last edited: 31/03/2025</em>
 
 </p>

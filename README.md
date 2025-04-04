@@ -75,7 +75,6 @@ Hi, I'm Pablo!
     <summary>Data Science</summary>
     <ul>
         <li><a href="https://github.com/pabblo2000/WinePredictions">Wine predictions</a>: Predictive modeling and machine learning projects.</li>
-        <li><a href="https://github.com/pabblo2000/Scraping-Google-Contacts">Google Contacts Scraping</a>: Scraping in Google contacts using Selenium.</li>
         <li><a href="https://github.com/pabblo2000/Datasaurus_and_Anscombe">Datasaurus_and_Anscombe</a>: Visualization of the Famous Datasaurus Dozen and Anscombe's quartet.</li>
         <li><a href="https://github.com/pabblo2000/plot_llm">Plot_LLM</a>: Tool for visualizing in a heatmap the query projection weights of the attention layers from pre-trained language models.</li>
     </ul>
@@ -87,9 +86,18 @@ Hi, I'm Pablo!
     <ul>
         <li><a href="https://github.com/pabblo2000/Ofertas-Generator">Offer Generator</a>: A web application for making offers.</li>
         <li><a href="https://github.com/pabblo2000/Venvifly">Venvifly</a>: A desktop application for managing Python virtual environments.</li>
-        <li><a href="https://github.com/pabblo2000/ScrapTool">ScrapTool</a>: A tool for web scraping and data extraction.</li>
+        <li><a href="https://github.com/pabblo2000/ScrapTool">ScrapTool</a>: A Desktop app for web scraping and data extraction.</li>
         <li><a href="https://github.com/pabblo2000/YouTubeAnalyzer">YouTubeAnalyzer</a>: A tool for analyzing YouTube video data, including comment extraction via API and sentiment analysis.</li>
         </ul>
+</details>
+
+<!-- Scraping -->
+<details>
+    <summary>Scraping</summary>
+    <ul>
+        <li><a href="https://github.com/pabblo2000/Scraping-Google-Contacts">Google Contacts Scraping</a>: Scraping in Google contacts using Selenium.</li>
+        <li><a href="https://github.com/pabblo2000/ScrapTool">ScrapTool</a>: A Desktop app for web scraping and data extraction.</li>
+    </ul>
 </details>
 
 <!-- Dashboards -->

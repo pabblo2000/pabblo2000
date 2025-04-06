@@ -88,7 +88,7 @@ Hi, I'm Pablo!
         <li><a href="https://github.com/pabblo2000/Venvifly">Venvifly</a>: A desktop application for managing Python virtual environments.</li>
         <li><a href="https://github.com/pabblo2000/ScrapTool">ScrapTool</a>: A Desktop app for web scraping and data extraction.</li>
         <li><a href="https://github.com/pabblo2000/YouTubeAnalyzer">YouTubeAnalyzer</a>: A tool for analyzing YouTube video data, including comment extraction via API and sentiment analysis.</li>
-        </ul>
+    </ul>
 </details>
 
 <!-- Scraping -->

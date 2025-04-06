@@ -118,7 +118,6 @@ Hi, I'm Pablo!
         <li><a href="https://github.com/pabblo2000/Mediapipe">Computer Vision</a>: Learning to use Mediapipe & OpenCV libraries.</li>
         <li><a href="https://github.com/pabblo2000/CS50x">CS50x</a>: Harvard's Computer Science courseexercises.</li>
         <li><a href="https://github.com/pabblo2000/CS50AI">CS50AI</a>: Harvard's CS50 Introduction to Artificial Intelligence with Python exercises.</li>
-        
     </ul>
 </details>
 

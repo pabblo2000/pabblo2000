@@ -114,9 +114,11 @@ Hi, I'm Pablo!
 <details>
     <summary>Learning & Exercises</summary>
     <ul>
+        <li><a href="https://partyrock.aws/u/palvaroh/ztsDWog3s/BrandSpark">AWS Hackathon App (BrandSpark)</a>: A brand Generator app, the app was meant to be done during an AWS Hackathon experience.</li>
         <li><a href="https://github.com/pabblo2000/Mediapipe">Computer Vision</a>: Learning to use Mediapipe & OpenCV libraries.</li>
         <li><a href="https://github.com/pabblo2000/CS50x">CS50x</a>: Harvard's Computer Science courseexercises.</li>
         <li><a href="https://github.com/pabblo2000/CS50AI">CS50AI</a>: Harvard's CS50 Introduction to Artificial Intelligence with Python exercises.</li>
+        
     </ul>
 </details>
 
@@ -145,6 +147,6 @@ Hi, I'm Pablo!
 
 <p align="left">
     <em>I'm always open to collaborate on projects and innovative ideas. Connect with me on LinkedIn or send me an email!</em><br>
-    <em>Last edited: 31/03/2025</em>
+    <em>Last edited: 06/04/2025</em>
 
 </p>

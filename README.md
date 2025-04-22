@@ -6,13 +6,13 @@ Hi, I'm Pablo!
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Big+Data+Enthusiast;Always+learning+and+exploring;Passionate+about+AI+%7C+Tech+%7C+Data&center=true&width=500&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=BI+Analyst/Developer;Big+Data+Enthusiast;Always+learning+and+exploring;Passionate+about+AI+%7C+Tech+%7C+Data&center=true&width=500&height=45"></a>
 </p>
 
 
 ```
 ------------------
-👨‍💻 Data Analyst
+👨‍💻 BI Analyst/Developer
 📊 Passionate about data, technology, and AI.  
 💡 Technical-functional profile with a strong foundation in programming. 
 🌱 Currently exploring computer vision, aws and data architecture. 

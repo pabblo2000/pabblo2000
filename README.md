@@ -87,6 +87,7 @@ Hi, I'm Pablo!
 <details>
     <summary>Software</summary>
     <ul>
+        <li><a href="https://github.com/pabblo2000/pdf_encrypt">Pdf encrypter</a>: A simple app to encrypt pdf.</li>
         <li><a href="https://github.com/pabblo2000/Ofertas-Generator">Offer Generator</a>: A web application for making offers.</li>
         <li><a href="https://github.com/pabblo2000/Venvifly">Venvifly</a>: A desktop application for managing Python virtual environments.</li>
         <li><a href="https://github.com/pabblo2000/ScrapTool">ScrapTool</a>: A Desktop app for web scraping and data extraction.</li>

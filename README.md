@@ -12,7 +12,7 @@ Hi, I'm Pablo!
 
 ```
 ------------------
-👨‍💻 BI Analyst/Developer
+👨‍💻 BI Data Analyst/Developer
 📊 Passionate about data, technology, and AI.  
 💡 Technical-functional profile with a strong foundation in programming. 
 🌱 Currently exploring computer vision, aws and data architecture. 

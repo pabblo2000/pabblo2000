@@ -49,21 +49,24 @@ Hi, I'm Pablo!
 
 ### 🗄️ Databases & Cloud Hosting
 <p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-    <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-%23FFFFFF.svg?logo=snowflake&logoColor=blue">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white">
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-EF3E2E.svg?logo=databricks&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
+    <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-FFFFFF.svg?logo=snowflake&logoColor=00AEEF">
 </p>
+
 
 ### 💻 Software & Tools
 <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white">
     <img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?logo=microsoft-excel&logoColor=white">
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white">
     <img alt="Celonis" src="https://img.shields.io/badge/Celonis-%2300A4CC.svg?logo=celonis&logoColor=white">
     <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white">
 </p>

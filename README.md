@@ -14,10 +14,10 @@ Hi, I'm Pablo!
 ------------------
 👨‍💻 BI Data Analyst/Developer
 📊 Passionate about data, technology, and AI.  
-💡 Technical-functional profile with a strong foundation in programming. 
+💡 Technical-functional profile with foundation in programming. 
 🌱 Currently exploring computer vision, aws and data architecture. 
 🌐 Knowledge in data analytics, data science, webscrapping.
-🚀 Working on advanced analytics and data solutions.
+🚀 Working on advanced analytics and data solutions for Ryanair.
 🎯 Goal: Transform data into actionable insights and impactful solutions.
 ------------------
 ```

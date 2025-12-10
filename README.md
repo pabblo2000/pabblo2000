@@ -131,7 +131,7 @@ Hi, I'm Pablo!
     <ul>
         <li><a href="https://github.com/pabblo2000/pynacci">Pynacci</a>: A Python library for generating Fibonacci sequences and performing related mathematical operations.</li>
         <li><a href="https://github.com/pabblo2000/pybyrinth">Pybyrinth</a>: A Python library for generating and solving mazes.</li>
-        <li><a href="https://github.com/pabblo2000/fillna_interpolation">fillna_interpolation</a>A function that lets you fills time series na's with different approaches</li>
+        <li><a href="https://github.com/pabblo2000/fillna_interpolation">fillna_interpolation</a>: A function that lets you fills time series na's with different approaches</li>
     </ul>
 </details>
 
